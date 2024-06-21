@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:polyglotpath/utils/language_preferences.dart';
+import 'package:apotrack/utils/language_preferences.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
@@ -50,7 +50,7 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset('assets/polyglotpath.jpeg'),
+            Image.asset('assets/logo.png'),
             SizedBox(height: 20),
             CircularProgressIndicator(),
           ],
