@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445868750712",
+    "project_id": "apotrack-db",
+    "storage_bucket": "apotrack-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445868750712:android:81ed4e4cc99836f45b7a8d",
+        "android_client_info": {
+          "package_name": "com.example.apotrack_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByT1M3ql1QYTnfiyLpXb4FVZvL9fV3k34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
